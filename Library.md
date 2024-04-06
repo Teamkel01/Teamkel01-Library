@@ -1,1 +1,1 @@
-# loadstring(game:HttpGet(('[Your Pastebin Link Here](https://raw.githubusercontent.com/Teamkel01/Teamkel01-Library/main/Source)'),true))()
+# loadstring(game:HttpGet(('https://raw.githubusercontent.com/Teamkel01/Teamkel01-Library/main/Source)'),true))()
