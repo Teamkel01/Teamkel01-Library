@@ -52,7 +52,7 @@ local Toggle = GUI:Toggle({
 		end
 	end
 })
-```lua
+```
 
 ## Creating a Slider
 
