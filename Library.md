@@ -1,4 +1,6 @@
 # Teamkel01 Library
+This library isnt fully finished.
+
 
 ## Starting the Library
 
