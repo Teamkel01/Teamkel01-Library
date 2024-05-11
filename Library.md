@@ -5,7 +5,7 @@ This library isnt fully finished.
 ## Starting the Library
 
 ```lua 
-loadstring(game:HttpGet(('https://pastebin.com/raw/k9j3n9Pm'),true))()
+loadstring(game:HttpGet(('https://pastebin.com/raw/k9j3n9Pm')))()
 ```
 ## Creating the Window
 
