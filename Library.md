@@ -31,12 +31,12 @@ local Tab = GUI:CreateTab({
 ## Creating a Button
 
 ```lua
-	local Button = GUI:Button({
-		text = "Button",
-		Callback = function()
-			print("Clicked")
-		end
-	})
+local button = GUI:Button({
+	text = "Button",
+	Callback = function()
+		print("Button clicked!")
+	end,
+}, section)
 ```
 
 ## Creating a Toggle
@@ -51,7 +51,7 @@ local Toggle = GUI:Toggle({
 			print("Toggle On")
 		end
 	end
-})
+}, section)
 ```
 
 ## Creating a Slider
@@ -68,7 +68,7 @@ local Slider = GUI:Slider({
 			humanoid.WalkSpeed = value
 		end
 		end
-})
+}, section)
 ```
 ## Creating a Notification
 
