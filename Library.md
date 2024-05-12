@@ -23,9 +23,9 @@ local Tab = GUI:CreateTab({
 ## Creating a Section
 
 ```lua
-    local Section = GUI:Section({
-	    text = "Section",
-	})
+local section = GUI:Section({
+    text = "My Section"
+})
 ```
 
 ## Creating a Button
