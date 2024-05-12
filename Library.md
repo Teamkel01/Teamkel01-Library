@@ -31,7 +31,7 @@ local Tab = GUI:CreateTab({
 ## Creating a Button
 
 ```lua
-local button = GUI:Button({
+local button1 = GUI:Button({
 	text = "Button",
 	Callback = function()
 		print("Button clicked!")
