@@ -16,9 +16,9 @@ local main = Library:Init { Title = "Teamkel01" }
 
 ```lua
 local Tab = GUI:CreateTab({
-		Text = "Tab",
-		icon = "rbxassetid://2790547157"
-	})
+	Text = "Tab",
+	icon = "rbxassetid://2790547157"
+})
 ```
 ## Creating a Section
 
